@@ -6,7 +6,7 @@ Como programador, tienes la tarea de replicar una imagen como un sitio web.
 
 <onlyfor saas="false" withBanner="false">
 
-## 🌱 Cómo comenzar este proyecto
+## 🌱 Cómo comenzar este proyecto:
 
 No clones este repositorio porque vamos a usar una plantilla diferente.
 
